@@ -28,8 +28,8 @@ Users should be able to:
 ![screenshot](ss/Desktop.png)
 Keep relative between Desktop and Mobile Display.
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/dev-Flone/social-link-profile.git](https://github.com/dev-Flone/social-link-profile.git)
+- Live Site URL: [https://dev-flone.github.io/social-link-profile/](https://dev-flone.github.io/social-link-profile/)
 
 ## My process
 
